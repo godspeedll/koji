@@ -33,7 +33,7 @@ BuildRequires: sed
 
 %description
 Koji is a system for building and tracking RPMS.  The base package
-contains shared libraries and the command-line interface.
+contains shared libraries and the command-line interface.Test jenkins.
 
 %package -n python%{python3_pkgversion}-%{name}
 Summary: Build system tools python library
